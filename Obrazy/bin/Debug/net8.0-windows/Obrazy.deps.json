@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Obrazy/1.0.0": {
+        "dependencies": {
+          "Macierze": "1.0.0"
+        },
+        "runtime": {
+          "Obrazy.dll": {}
+        }
+      },
+      "Macierze/1.0.0": {
+        "runtime": {
+          "Macierze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obrazy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Macierze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
